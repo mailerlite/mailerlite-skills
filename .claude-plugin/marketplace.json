@@ -1,0 +1,15 @@
+{
+  "name": "mailerlite-skills",
+  "owner": {
+    "name": "MailerLite",
+    "url": "https://www.mailerlite.com/"
+  },
+  "plugins": [
+    {
+      "name": "mailerlite",
+      "source": "./",
+      "description": "Claude Skills for MailerLite",
+      "version": "1.0.0"
+    }
+  ]
+}
