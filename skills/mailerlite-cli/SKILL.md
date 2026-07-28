@@ -1,5 +1,5 @@
 ---
-name: MailerLite
+name: mailerlite-cli
 description: >-
   This skill should be used when the user asks to "manage subscribers", "create a campaign",
   "list automations", "manage groups", "manage forms", "manage segments", "manage fields",
@@ -14,6 +14,16 @@ description: >-
 # MailerLite CLI
 
 The MailerLite CLI (`mailerlite`) is a command-line tool and interactive TUI dashboard for the MailerLite email marketing API. It supports managing subscribers, campaigns, automations, groups, forms, segments, fields, webhooks, e-commerce (shops, products, categories, customers, orders, carts), and full account management.
+
+## Check CLI Availability First
+
+Before running any commands, verify the CLI is installed:
+
+```bash
+command -v mailerlite
+```
+
+If the binary is not available, do not guess at commands. Either offer to install it (see Installation below), or use another available MailerLite interface instead — the MailerLite MCP server, if connected, or the [REST API](https://developers.mailerlite.com/) directly.
 
 ## Installation
 

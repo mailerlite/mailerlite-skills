@@ -1,8 +1,8 @@
 {
   "name": "MailerLite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "https://github.com/mailerlite/mailerlite-skills",
-  "description": "Teaches Claude how to use the MailerLite CLI for managing subscribers, campaigns, automations, e-commerce, and more.",
+  "description": "Teaches Claude how to use the MailerLite CLI for managing subscribers, campaigns, automations, e-commerce, and more — plus email marketing best practices for acting safely and effectively on a MailerLite account.",
   "author": {
     "name": "MailerLite"
   }
