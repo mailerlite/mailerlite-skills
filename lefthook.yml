@@ -5,3 +5,4 @@ remotes:
     refetch_frequency: "168h"
     configs:
       - gitleaks.yml
+      - zizmor.yml
